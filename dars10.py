@@ -19,4 +19,14 @@ with open("test.json") as f:
     # print(max(dct.items(), key=lambda x: x[1]))   : eng kop tolov qilyotgan oquvchi:
         #  sum +=x['payment']
         #  print(sum)
-        
+
+
+
+           print("salom dunyo") 
+
+
+
+
+
+
+
